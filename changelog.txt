@@ -1,0 +1,57 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.18.0
+Date: 15. 02. 2020
+  Changes:
+    - Version bump to 0.18.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.4
+Date: 29. 07. 2019
+  Changes:
+    - Re-Fixed formatting of This! (Changelog).
+---------------------------------------------------------------------------------------------------
+Version: 0.17.3
+Date: 29. 07. 2019
+  Changes:
+    - Fixed formatting of This! (Changelog).
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+Date: 29. 07. 2019
+  Changes:
+    - This! (Changelog). No functional changes.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.1
+Date: 29. 07. 2019
+  Changes:
+    - GUI improved. No functional changes.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.0
+Date: 01. 03. 2019
+  Changes:
+    - No functional changes. GUI looks a little weird now, but appears to work.
+---------------------------------------------------------------------------------------------------
+Version: 0.16.6
+Date: 02. 02. 2019
+  Bugfixes:
+    - Re-worked on_configuration to better handle loading old saves.
+      NB: settings will be reset for saves created with previous mod versions.
+    - Fixed remote call interfaces
+    - Better multi-player support (globalised many variables).
+      NB: I don't play multiplayer, so limited testing only.
+    - Fixed group icon combining
+      (so main icon will prioritise products, ingredients and lastly inventory)
+---------------------------------------------------------------------------------------------------
+Version: 0.16.5
+Date: 01. 02. 2019
+  Changes:
+    - Changed default hot-key to SHIFT-F
+    - Re-factored code to improve performance of searching
+    - Improved visibilty of result highlight icon and made the size configurable
+    - Uses items for highlight result icons instead of virtual-signals
+  Features:
+    - Add debug logging level to startup options (leave at 0 if unsure)
+---------------------------------------------------------------------------------------------------
+Version: 0.16.1
+Date: 01. 01. 2018
+  Features:
+    - Fluids can now be searched for in tanks as well as ingredients or products.
+    - New option to clear tags when the BeastFinder GUI is closed.

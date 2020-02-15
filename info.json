@@ -1,0 +1,11 @@
+{
+  "name": "BeastFinder",
+  "version": "0.18.0",
+  "factorio_version": "0.18",
+  "title": "BeastFinder",
+  "author": "schoos",
+  "contact": "Mod portal",
+  "homepage": "mods.factorio.com/mod/BeastFinder",
+  "description": "Find where in your factory items are made, used or stored.\nSearch assembling machines, furnaces & containers for specified item(s).",
+  "dependencies": []
+}
